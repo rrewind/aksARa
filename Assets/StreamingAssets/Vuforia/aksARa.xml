@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="A" size="400.000000 400.000000" />
+    <ImageTarget name="9" size="400.000000 400.000000" />
+    <ImageTarget name="8" size="400.000000 400.000000" />
+    <ImageTarget name="7" size="400.000000 400.000000" />
+    <ImageTarget name="6" size="400.000000 400.000000" />
+    <ImageTarget name="5" size="400.000000 400.000000" />
+    <ImageTarget name="4" size="400.000000 400.000000" />
+    <ImageTarget name="3" size="400.000000 400.000000" />
+    <ImageTarget name="2" size="400.000000 400.000000" />
+    <ImageTarget name="1" size="400.000000 400.000000" />
+    <ImageTarget name="0" size="400.000000 400.000000" />
+    <ImageTarget name="-y-" size="400.000000 400.000000" />
+    <ImageTarget name="-u" size="400.000000 400.000000" />
+    <ImageTarget name="-sukun" size="400.000000 400.000000" />
+    <ImageTarget name="-r-" size="400.000000 400.000000" />
+    <ImageTarget name="-r" size="400.000000 400.000000" />
+    <ImageTarget name="-o" size="400.000000 400.000000" />
+    <ImageTarget name="-ng" size="400.000000 400.000000" />
+    <ImageTarget name="-l-" size="400.000000 400.000000" />
+    <ImageTarget name="-i" size="400.000000 400.000000" />
+    <ImageTarget name="-h" size="400.000000 400.000000" />
+    <ImageTarget name="-eu" size="400.000000 400.000000" />
+    <ImageTarget name="-e_" size="400.000000 400.000000" />
+    <ImageTarget name="-e" size="400.000000 400.000000" />
+    <ImageTarget name="Za" size="400.000000 400.000000" />
+    <ImageTarget name="Ya" size="400.000000 400.000000" />
+    <ImageTarget name="Xa" size="400.000000 400.000000" />
+    <ImageTarget name="Wa" size="400.000000 400.000000" />
+    <ImageTarget name="Va" size="400.000000 400.000000" />
+    <ImageTarget name="Ta" size="400.000000 400.000000" />
+    <ImageTarget name="Sya" size="400.000000 400.000000" />
+    <ImageTarget name="Sa" size="400.000000 400.000000" />
+    <ImageTarget name="Ra" size="400.000000 400.000000" />
+    <ImageTarget name="Qa" size="400.000000 400.000000" />
+    <ImageTarget name="Pa" size="400.000000 400.000000" />
+    <ImageTarget name="Nya" size="400.000000 400.000000" />
+    <ImageTarget name="Nga" size="400.000000 400.000000" />
+    <ImageTarget name="Na" size="400.000000 400.000000" />
+    <ImageTarget name="Ma" size="400.000000 400.000000" />
+    <ImageTarget name="La" size="400.000000 400.000000" />
+    <ImageTarget name="Kha" size="400.000000 400.000000" />
+    <ImageTarget name="Ka" size="400.000000 400.000000" />
+    <ImageTarget name="Ja" size="400.000000 400.000000" />
+    <ImageTarget name="Ha" size="400.000000 400.000000" />
+    <ImageTarget name="Ga" size="400.000000 400.000000" />
+    <ImageTarget name="Fa" size="400.000000 400.000000" />
+    <ImageTarget name="Da" size="400.000000 400.000000" />
+    <ImageTarget name="Ca" size="400.000000 400.000000" />
+    <ImageTarget name="Ba" size="400.000000 400.000000" />
+    <ImageTarget name="U" size="400.000000 400.000000" />
+    <ImageTarget name="O" size="400.000000 400.000000" />
+    <ImageTarget name="I" size="400.000000 400.000000" />
+    <ImageTarget name="EU" size="400.000000 400.000000" />
+    <ImageTarget name="E-" size="400.000000 400.000000" />
+    <ImageTarget name="E" size="400.000000 400.000000" />
+  </Tracking>
+</QCARConfig>
